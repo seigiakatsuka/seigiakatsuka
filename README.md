@@ -2,14 +2,14 @@
 
 I'm Minuit, a Web developer based in North Carolina
 
-I mostly work on frontend projects and a little bit of backend - Next.js, TypeScript
+I mostly work on frontend projects and a little bit of backend
 
 I use Figma to build my wireframes and mockups. 
 
 ## Tools and Tech
 
-- Next.js, TypeScript, Tailwind
-- Figma, Notion, Motion.io
+- Next.js, TypeScript, Tailwind, Supabase, Sanity.io, Webflow
+- Figma, Notion
 
 ## About me 
 
